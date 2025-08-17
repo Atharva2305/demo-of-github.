@@ -1,2 +1,2 @@
 # demo-of-github.
-practicing github
+Practicing Github
